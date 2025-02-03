@@ -8,7 +8,7 @@ public class Main {
         System.out.println("output from java program");
         System.out.println(new Date());
         System.out.println("hello");
-        System.out.println("Added one more file");
+        System.out.println("Added one more file and made one new commit");
         Student student = new Student();
         student.sayHello();
     }
